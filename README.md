@@ -6,9 +6,6 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 
 - [Overview](#overview)
 - [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [System Setup](#system-setup)
-- [Video](#video)
 
 ## Overview
 
@@ -28,9 +25,3 @@ The pipeline is designed to:
 5. **AWS Glue**: Data cataloging and ETL jobs.
 6. **Amazon Athena**: SQL-based data transformation.
 7. **Amazon Redshift**: Data warehousing and analytics.
-
-## Prerequisites
-- AWS Account with appropriate permissions for S3, Glue, Athena, and Redshift.
-- Reddit API credentials.
-- Docker Installation
-- Python 3.9 or higher
